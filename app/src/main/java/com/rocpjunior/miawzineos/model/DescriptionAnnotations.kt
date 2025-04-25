@@ -1,0 +1,3 @@
+package com.rocpjunior.miawzineos.model
+
+class DescriptionAnnotations
